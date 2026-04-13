@@ -9,6 +9,12 @@
 /*********************************************************************************/
 
 	body
+{
+    max-width: 80%;       /* Sets the content width to 80% of the screen */
+    margin: 0 auto;       /* Automatically centers the 80% width block */
+    border: 2px solid #e0e0e0; 
+    padding: 20px;        /* Adds space inside the border so text doesn't touch it */
+}
 
 	{
 		background: #141414;
